@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ChocolateFactory",
+  "name": "Chocolate Factory",
+  "description": "Make Delicious Chocolate!",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Alex Koehn"
+  ],
+  "credits": "To all my Patrons, I love you!",
+  "logoFile": "logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

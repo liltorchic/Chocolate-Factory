@@ -1,0 +1,7 @@
+item.chocolatefactory:cocoaPod.name=Cocoa Pod
+item.chocolatefactory:cocoaBeanUncooked.name=Cocoa Beans
+item.chocolatefactory:cocoaBeanCooked.name=Dried Cocoa Beans
+
+tile.chocolatefactory:cocoaDryer.name=Cocoa Dryer
+
+itemGroup.ChocolateFactory=Chocolate Factory
