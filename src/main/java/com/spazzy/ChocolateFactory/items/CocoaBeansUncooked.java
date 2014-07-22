@@ -7,7 +7,7 @@ import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class CocoaBeansUncooked extends CocoaFactoryItems
+public class CocoaBeansUncooked extends CocoaItemsBase
 {
     public CocoaBeansUncooked()
     {

@@ -9,16 +9,16 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
 
-public class CocoaFactoryBlocks extends Block
+public class CocoaBlocksBase extends Block
 {
-    public CocoaFactoryBlocks(Material material)
+    public CocoaBlocksBase(Material material)
     {
         super(material);
         setCreativeTab(CreativeTabChocolate.ChocoTab);
 
     }
 
-    public CocoaFactoryBlocks()
+    public CocoaBlocksBase()
     {
         this(Material.rock);
     }

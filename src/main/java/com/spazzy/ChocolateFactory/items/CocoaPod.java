@@ -1,6 +1,6 @@
 package com.spazzy.ChocolateFactory.items;
 
-public class CocoaPod extends CocoaFactoryItems
+public class CocoaPod extends CocoaItemsBase
 {
     public CocoaPod()
     {

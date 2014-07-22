@@ -1,6 +1,6 @@
 package com.spazzy.ChocolateFactory.items;
 
-public class CocoaBeansCooked extends CocoaFactoryItems
+public class CocoaBeansCooked extends CocoaItemsBase
 {
     public CocoaBeansCooked()
     {

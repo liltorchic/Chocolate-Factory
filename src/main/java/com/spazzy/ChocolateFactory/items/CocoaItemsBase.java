@@ -9,9 +9,9 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
-public class CocoaFactoryItems extends Item
+public class CocoaItemsBase extends Item
 {
-    public CocoaFactoryItems()
+    public CocoaItemsBase()
     {
         super();
         setCreativeTab(CreativeTabChocolate.ChocoTab);
